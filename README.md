@@ -3,8 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Gimbest?label=Followers&style=social)](https://github.com/Gimbest)
 [![GitHub User's stars](https://img.shields.io/github/stars/Gimbest?style=social)](https://github.com/Gimbest)
 
-I'm a student at **ESIEA** (Engineering School for the Digital World) and a developer based in **France** 🇫🇷. 
-*(Currently: 🌴 On vacation)*
+I'm a student at **ESIEA** (Engineering School for the Digital World) and a developer based in **France** 🇫🇷.
 
 ## 🚀 About Me
 
@@ -25,21 +24,18 @@ I'm a student at **ESIEA** (Engineering School for the Digital World) and a deve
 
 I currently have **3 public projects** on my profile. Here are the main ones:
 
-- ⚙️ **[Research_Tama_GIMENEZ_MARCHAL]** - *The result of my 4 months long internship at Tama University. You can take a peek at the README.md for further information*
-- 🌐 **[QR-Code-reader-template]** - *A Unity project that is meant to be used as a template for anyone that would need to scan real-world QR codes in Unity.*
-- 🎮 **[Challenge_EES_MECI_N2I]** - *My participation in a coding challenge that took place during one night.*
+- ⚙️ **[Research_Tama_GIMENEZ_MARCHAL](https://github.com/Gimbest/Research_Tama_GIMENEZ_MARCHAL)** - *The result of my 4 months long internship at Tama University. You can take a peek at the README.md for further information*
+- 🌐 **[QR-Code-reader-template](https://github.com/Gimbest/QR-Code-reader-template)** - *A Unity project that is meant to be used as a template for anyone that would need to scan real-world QR codes in Unity.*
+- 🎮 **[Challenge_EES_MECI_N2I](https://github.com/Gimbest/Challenge_EES_MECI_N2I)** - *My participation in a coding challenge that took place during one night.*
 
+All my other projects are in **private** as I am not comfortable sharing everyting that I work on on the Internet !
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gimbest&show_icons=true&theme=radium&locale=en" alt="Gimbest's GitHub Stats" />
-</div>
+  <img src="https://github-stats-extended.vercel.app/api?username=Gimbest&show_icons=true&include_all_commits=true&theme=dark_github" alt="Gimbest's GitHub Stats" />
 <br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gimbest&theme=radium" alt="Gimbest's GitHub Streak" />
-</div>
 
 ## 📫 How to reach me
 
-- You can find me on my ESIEA GitLab, right here on [GitHub](https://github.com/Gimbest) and on [LinkedIn](www.linkedin.com/in/gabriel-gimenez-6246b2253/).
+You can find me on my ESIEA GitLab, right here on [GitHub](https://github.com/Gimbest) and on [LinkedIn](www.linkedin.com/in/gabriel-gimenez-6246b2253/).
