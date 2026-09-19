@@ -28,7 +28,7 @@ I currently have **3 public projects** on my profile. Here are the main ones:
 - 🌐 **[QR-Code-reader-template](https://github.com/Gimbest/QR-Code-reader-template)** - *A Unity project that is meant to be used as a template for anyone that would need to scan real-world QR codes in Unity.*
 - 🎮 **[Challenge_EES_MECI_N2I](https://github.com/Gimbest/Challenge_EES_MECI_N2I)** - *My participation in a coding challenge that took place during one night.*
 
-All my other projects are in **private** as I am not comfortable sharing everyting that I work on on the Internet !
+All my other projects are in **private** as I am not comfortable with sharing everyting that I do on the Internet !
 
 ## 📈 GitHub Stats
 
